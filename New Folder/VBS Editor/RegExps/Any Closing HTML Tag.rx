@@ -1,0 +1,7 @@
+<	literal <
+\s*	zero or more white spaces
+/	literal /
+\s*	zero or more white spaces
+\w+	one or more alpha chars
+\s*	zero or more white spaces
+>	literal >

@@ -1,0 +1,7 @@
+<(?:		non-capturing match
+"[^"]*"		anything within double quotes, even >
+|		or
+'[^']*'		anything within single quotes, even >
+|		or
+[^'">]		any other chars
+)*>
