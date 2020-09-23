@@ -1,0 +1,7 @@
+
+RegExpExtract(public.*?\r\n )
+LinesDelLeftTo("Function " , 0 , 1)
+LinesDelRightTo("(" , 0 , 1)
+LinesRemoveBlank
+LinesSort(1 ,1 )
+AddFirst("Axiom Functions:~n~n" )

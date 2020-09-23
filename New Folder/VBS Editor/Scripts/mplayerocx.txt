@@ -1,0 +1,13 @@
+<object CLASSID="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95"
+   border="-1"
+   width="%width%"
+   height="%height%">
+<param name="AutoStart" value="false">
+<param name="ShowPositionControls" value="0">
+<PARAM NAME="EnableContextMenu" value="0">
+<param name="ShowDisplay" value="false">
+<param name="ShowAudioControls" value="true">
+<param name="AutoStart" value= "false">
+<param name="AutoSize" value="true">
+<param name="FileName" value="%filename%">
+</object>
